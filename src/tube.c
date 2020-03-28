@@ -40,7 +40,7 @@ struct Station
 }stat[MAX_STAT];
 
 
-//akk the functions created and used
+//all the functions created and used
 void run(void);
 void displayOptions(void);
 void removeNewLine(char *buffer);
